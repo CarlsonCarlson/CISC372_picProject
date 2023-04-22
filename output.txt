@@ -1,0 +1,9 @@
+Script started on Fri Apr 21 23:54:29 2023
+ESC]0;carlsonc@r1n01.darwin:~/CISC372_picProject^GESC[?1034h[carlsonc@r1n01 CISC372_picProject]$ srun pthread_image pic^G1.jpg edge
+Took 7 seconds
+ESC]0;carlsonc@r1n01.darwin:~/CISC372_picProject^G[carlsonc@r1n01 CISC372_picProject]$ srun op^Gen_mp_image pic^G1.jpg edge
+Took 0 seconds
+ESC]0;carlsonc@r1n01.darwin:~/CISC372_picProject^G[carlsonc@r1n01 CISC372_picProject]$ exit
+exit
+
+Script done on Fri Apr 21 23:55:33 2023
